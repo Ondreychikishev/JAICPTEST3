@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "inc_6015-81761537-MKn",
-    "name" : "inc_6015-81761537-MKn",
+    "id" : "inc_6015-81761537-pco",
+    "name" : "inc_6015-81761537-pco",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 116797,
+    "id" : 116799,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -25,7 +25,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 116798,
+    "id" : 116800,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
