@@ -20,4 +20,4 @@ dependencies:
   - name: outbound-common
     type: git
     url: https://github.com/Ondreychikishev/JAICPTEST2
-    version: heads/common-patterns
+    version: common-patterns
